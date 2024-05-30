@@ -1,0 +1,53 @@
+ body {
+   margin: 0;
+   padding: 0;
+   font-family: 'Times New Roman', Times, serif;
+ }
+
+ .topnav {
+   max-width: 140rem;
+   padding: 1rem 1rem;
+   margin: 0 auto;
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   height: 80px;
+   overflow: hidden;
+   background-color: white;
+   position: fixed;
+   top: 0;
+   left: 0;
+   right: 0;
+   z-index: 100;
+   box-shadow: 2px 3px 10px black;
+ }
+
+ ul {
+   display: flex;
+   gap: 2.5rem;
+ }
+
+ li {
+
+   list-style: none;
+ }
+
+ .logo img {
+   height: 50px;
+   background-blend-mode: color-burn;
+ }
+
+ .topnav a {
+   float: left;
+   color: black;
+   padding: 14px 16px;
+   text-decoration: none;
+   font-size: 22px;
+   font-weight: 550;
+   font-family: 'Times New Roman', Times, serif;
+ }
+
+ .topnav a:hover {
+   text-decoration: underline rgb(106, 106, 149);
+   color: rgb(116, 26, 26);
+ }

@@ -1,0 +1,40 @@
+.content{
+    
+    margin: 100px 60px 0px 60px; 
+    background-color: rgb(212, 212, 212);
+    
+}
+.container1{
+    margin-top: 20px;
+    border: none;
+}
+.headin{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.form-control{
+    height: 50px;
+    margin-bottom: 15px;
+}
+
+.contact-img{
+    /* height: 350px; */
+    mix-blend-mode: multiply;
+}
+
+#message{
+    resize: none;
+    height: 150px;
+    /* width: 527px; */
+}
+.btn1{
+    background-color: rgb(48, 48, 105);
+    height: 50px;
+    color: whitesmoke;
+}
+
+.text-area{
+    height: 180px;
+    resize: none;
+}

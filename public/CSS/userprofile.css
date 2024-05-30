@@ -1,0 +1,41 @@
+.userprofile-table {
+    width: 50%;
+    border-collapse: collapse;
+    border: 3px solid rgb(99, 56, 99);
+    margin: 20px;
+}
+
+.profile-th {
+    font-size: 18px;
+    font-weight: 500;
+    width: 10%;
+    border: 2px solid purple;
+}
+
+.profileBtnDiv{
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
+.profileBtn{
+    margin-left: 200%;
+    width: 150px;
+    background-color: rgb(89, 20, 104);
+}
+
+
+.userprofile-nav{
+    display: flex;
+    background-color: aliceblue;
+    height: 50px;
+    width: 770px;
+  
+}
+
+.user-nav{
+    font-size: 25px;
+}
+
+.userprofile-name{
+    color: rgb(50, 87, 74);
+}

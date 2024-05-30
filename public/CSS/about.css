@@ -1,0 +1,32 @@
+.about-section{
+    margin: 100px 60px 20px 60px;
+    padding-bottom: 28px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(218, 215, 215);
+}
+
+.about-img{
+height: 580px;
+padding-top: 20px;
+padding-bottom: 5px;
+
+mix-blend-mode: multiply;
+}
+
+.about-para{
+    margin-top: 110px;
+    font-size: 50px;
+    font-weight: bold;
+  
+}
+#fixitnow{
+    color: rgb(7, 107, 132);
+    font-size: 40px;
+}
+
+.about-text{
+    font-size: 22px;
+    font-weight: 500;
+    width: 500px;
+}

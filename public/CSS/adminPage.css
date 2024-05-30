@@ -1,0 +1,43 @@
+/* spacing */
+
+table {
+    table-layout:auto;
+    width: 100wh;
+    border-collapse: collapse;
+    border: 3px solid purple;
+    margin: 20px;
+ 
+  }
+  
+  thead th{
+    width: 10%;
+  }
+  
+  th,
+  td {
+    padding: 20px;
+  }
+
+  h1{
+    margin-left: 20px;
+  }
+  
+  .button-7 {
+    background-color: #0095ff;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    color: #fff;
+    cursor: pointer;
+    font-family: -apple-system,system-ui,"Segoe UI","Liberation Sans",sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 0.9;
+    width: 80px;
+  }
+  
+  .button-7:hover,
+  .button-7:focus {
+    background-color: #07c;
+  }
+
+ 
