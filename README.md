@@ -1,8 +1,5 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+"FixitNow" is like a super easy way to get stuff fixed at home. You just tap on your phone,
+ and boom! You find awesome pros to help with cleaning, painting, fixing pipes, repairing and
+ more. It's like having a handy helper right on your phone
+ An E-Household services platform for both customer and service provider.
+ SKILLS:- React.js, Node.js, Express.js, MongoDB, CSS,  Bootstrap
